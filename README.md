@@ -17,5 +17,6 @@ https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/70
 reviewed code is iss# 87 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/87#pullrequestreview-2625214719
 
 
-4/  submit package of works and stuffs
+4/  submission of this very thing
+
 
