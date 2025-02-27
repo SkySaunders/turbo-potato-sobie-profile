@@ -9,8 +9,13 @@ DEV Jig Package
 
 2/  issue/BRANCH/code/PR/merge
 
+https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/47
+
+![Screenshot 2025-02-27 124009](https://github.com/user-attachments/assets/b76255ca-4c33-4eda-8e3c-e2ddd6b083dd)
+
 3/  code review
+reviewed code is iss# 87 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/87#pullrequestreview-2625214719
+
 
 4/  submit package of works and stuffs
 
-reviewed code is iss# 87 https://github.com/barrycumbie/turbo-potato-sobie-profile/pull/87#pullrequestreview-2625214719
